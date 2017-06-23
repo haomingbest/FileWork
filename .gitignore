@@ -1,0 +1,15 @@
+
+.vs/watch/v14/.suo
+*.obj
+*.tlog
+*.log
+*.pdb
+*.exe
+*.iobj
+*.ipdb
+*.sdf
+*.opensdf
+*.idb
+*.ilk
+.vs/MultiWork/v14/.suo
+.vs/FileWork/v14/.suo
